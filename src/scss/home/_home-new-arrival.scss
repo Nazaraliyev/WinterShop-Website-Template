@@ -1,0 +1,100 @@
+#home-new-arrival{
+    header{
+        display: flex;
+        justify-content: space-between;
+        padding: 80px;
+        align-items: center;
+        h2{
+            text-transform: capitalize;
+            font-size: 40px;
+        }
+        ul{
+            display: flex;
+            justify-content: space-between;
+            width: 20%;
+            
+            li{
+                text-transform: capitalize;
+            }
+        }
+    }
+
+    #new-arrival-row{
+        flex-wrap: wrap;
+        .new-arrival-item{
+            position: relative;
+            height: 600px;
+            overflow: hidden;
+            img{
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+                transition: 800ms;
+                
+            }
+
+            &:hover {
+                .new-arrival-imglayer{
+                    opacity: 1;
+                    padding-top: 200px;
+                }
+                img{
+                    transform: scale(1.2);
+                }
+            }
+
+            
+
+            .new-arrival-imglayer{
+                width: 100%;
+                height: 100%;
+                display: flex;
+                justify-content: center;
+                // align-items: center;
+                padding-top: 150px;
+                background-color: rgba(0, 119, 255, 0.562);
+                position: absolute;
+                top: 0;
+                left: 0;
+                transition: 800ms;
+                opacity: 0;
+
+                
+                .new-arrival-item-content{
+                    text-align: center;
+                    color: #fff;
+                    h3{
+                        font-size: 30px;
+                        font-weight: 500;
+                        margin: 10px 0;
+                    }
+                    span{
+                        font-size: 25px;
+                        font-weight: bold;
+                        
+                    }
+
+                    ul{
+                        display: flex;
+                        justify-content: center;
+                        margin: 20px 0 0 ;
+                        li{
+                            display: flex;
+                            width: 50px;
+                            height: 50px;
+                            border-radius: 25px;
+                            justify-content: center;
+                            align-items: center;
+                            background-color: #fff;
+                            margin: 0 5px;
+                            i{
+                                color: #000;
+                            }
+                        }
+                    }
+
+                }
+            }
+        }
+    }
+}

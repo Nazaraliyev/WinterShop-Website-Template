@@ -1,0 +1,21 @@
+#home-services{
+    padding: 100px 0;
+    background-color: #DDE3E8;
+    .home-services-item{
+        padding: 20px;
+        i{
+            font-size: 40px;
+            color: $primary-color;
+        }
+        h5{
+            margin: 20px 0 10px;
+            font-size: 20px;
+        }
+        &:first-child{
+            padding-left: 0;
+        }
+        &:last-child{
+            padding-right: 0;
+        }
+    }
+}

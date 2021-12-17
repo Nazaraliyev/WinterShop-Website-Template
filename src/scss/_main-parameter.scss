@@ -1,0 +1,31 @@
+$primary-color : rgb(0, 98, 255);
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+section{
+    margin: 40px 0;
+    &:first-child{
+        margin-top: 0 ;
+    }
+    &:last-child{
+        margin-bottom: 0;
+    }
+}
+
+
+.container{
+    width: 70%;
+    margin: 0 auto;
+    
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+}

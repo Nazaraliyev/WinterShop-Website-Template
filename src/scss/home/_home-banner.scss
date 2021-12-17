@@ -1,0 +1,31 @@
+#home-banner{
+    background-image: url('../src/img/Home/HomeBanner/banner_img.png.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+    .col-7{
+        position: relative;
+    }
+    #home-banner-content{
+        position: absolute;
+        margin-top: 50%;
+        transform: translateY(-50%);
+        h3{
+            font-size: 30px;
+            font-weight: 100;
+        }
+        h1{
+            font-size: 100px;
+            margin: 10px 0 60px;
+            line-height: 100px;
+        }
+    }
+}
+
+.btn{
+    padding: 25px 50px;
+    background-color: $primary-color;
+    font-size: 20px;
+    border: none;
+    color: #fff;
+}
