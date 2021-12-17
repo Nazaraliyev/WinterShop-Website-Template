@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/WinterShop-Website-Template/static/css/main.a3c3af21.chunk.css",
+    "main.js": "/WinterShop-Website-Template/static/js/main.2ce8d7ee.chunk.js",
+    "main.js.map": "/WinterShop-Website-Template/static/js/main.2ce8d7ee.chunk.js.map",
+    "runtime-main.js": "/WinterShop-Website-Template/static/js/runtime-main.cb546bf4.js",
+    "runtime-main.js.map": "/WinterShop-Website-Template/static/js/runtime-main.cb546bf4.js.map",
+    "static/js/2.97645b65.chunk.js": "/WinterShop-Website-Template/static/js/2.97645b65.chunk.js",
+    "static/js/2.97645b65.chunk.js.map": "/WinterShop-Website-Template/static/js/2.97645b65.chunk.js.map",
+    "static/js/3.15dca3a8.chunk.js": "/WinterShop-Website-Template/static/js/3.15dca3a8.chunk.js",
+    "static/js/3.15dca3a8.chunk.js.map": "/WinterShop-Website-Template/static/js/3.15dca3a8.chunk.js.map",
+    "index.html": "/WinterShop-Website-Template/index.html",
+    "static/css/main.a3c3af21.chunk.css.map": "/WinterShop-Website-Template/static/css/main.a3c3af21.chunk.css.map",
+    "static/js/2.97645b65.chunk.js.LICENSE.txt": "/WinterShop-Website-Template/static/js/2.97645b65.chunk.js.LICENSE.txt",
+    "static/media/1.a1e82247.jpg": "/WinterShop-Website-Template/static/media/1.a1e82247.jpg",
+    "static/media/2.a14cd146.jpg": "/WinterShop-Website-Template/static/media/2.a14cd146.jpg",
+    "static/media/3.6be15f7c.webp": "/WinterShop-Website-Template/static/media/3.6be15f7c.webp",
+    "static/media/4.1ab5d64a.jpg": "/WinterShop-Website-Template/static/media/4.1ab5d64a.jpg",
+    "static/media/5.3b60fe5c.webp": "/WinterShop-Website-Template/static/media/5.3b60fe5c.webp",
+    "static/media/6.22d97a6a.jpg": "/WinterShop-Website-Template/static/media/6.22d97a6a.jpg",
+    "static/media/Famale.a10187a8.jpg": "/WinterShop-Website-Template/static/media/Famale.a10187a8.jpg",
+    "static/media/Foot.e7d5825d.jpg": "/WinterShop-Website-Template/static/media/Foot.e7d5825d.jpg",
+    "static/media/Male.899504b4.jpg": "/WinterShop-Website-Template/static/media/Male.899504b4.jpg",
+    "static/media/App.css": "/WinterShop-Website-Template/static/media/banner_img.png.a7fc13b6.webp",
+    "static/media/footer-1.8b52d674.jpg": "/WinterShop-Website-Template/static/media/footer-1.8b52d674.jpg",
+    "static/media/footer-2.95ed14af.jpg": "/WinterShop-Website-Template/static/media/footer-2.95ed14af.jpg",
+    "static/media/footer-3.ca06c674.jpg": "/WinterShop-Website-Template/static/media/footer-3.ca06c674.jpg",
+    "static/media/footer-4.5deca73d.jpg": "/WinterShop-Website-Template/static/media/footer-4.5deca73d.jpg",
+    "static/media/footer-5.5ed183ae.jpg": "/WinterShop-Website-Template/static/media/footer-5.5ed183ae.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb546bf4.js",
+    "static/js/2.97645b65.chunk.js",
+    "static/css/main.a3c3af21.chunk.css",
+    "static/js/main.2ce8d7ee.chunk.js"
+  ]
+}
